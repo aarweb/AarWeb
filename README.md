@@ -6,8 +6,7 @@
 <h1 align="center"><b>Hola, Soy AarMagic 👋</b></h1>
 
 <p align="center">
-  <img align="center"  src=""  />
-      <img width="50%" style="border-radius: 50%"  src="https://i.ibb.co/Bgbsm1H/gato-programando.gif" alt="Foto Gato Programando"  />
+      <img width="30%" src="https://i.ibb.co/Bgbsm1H/gato-programando.gif" alt="Foto Gato Programando">
 </p>
 
 <h4 align="center"><b>✨One more step ✨</b></h4>
