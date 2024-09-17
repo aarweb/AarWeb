@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center"><b>Hola, Soy AarMagic 👋</b></h1>
+<h1 align="center"><b>Hola, Soy AarWeb 👋</b></h1>
 
 <p align="center">
       <img width="30%" src="https://i.ibb.co/Bgbsm1H/gato-programando.gif" alt="Foto Gato Programando">
@@ -51,7 +51,7 @@
 
 ### Estadísticas de GitHub
 
-![Estadisticas](https://github-readme-stats.vercel.app/api?username=aarmagic&theme=midnight-purple&show_icons=true)
+![Estadisticas](https://github-readme-stats.vercel.app/api?username=aarweb&theme=midnight-purple&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarmagic&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarweb&theme=midnight-purple)
 ---
