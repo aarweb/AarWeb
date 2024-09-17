@@ -39,17 +39,36 @@
 
 ## Tecnologías y Herramientas 🛠️
 
-- **Desarrollo Web**: HTML5, CSS3, JavaScript
-- **Bases de Datos**: MySQL
-- **Control de Versiones**: Git, GitHub
-- **Lenguajes de Programación**: C#
-- **Herramientas Frontend**: Astro, Tailwind CSS
+### Lenguajes de Programación
+- **JavaScript**
+- **PHP**
+- **C#**
+
+### Tecnologías de Marcado y Estilo
+- **HTML5**
+- **CSS3**
+- **Markdown**
+
+### Frameworks y Librerías
+- **React**
+- **Astro**
+- **Tailwind CSS**
+- **Bootstrap**
+- **DaisyUI**
+
+### Bases de Datos
+- **MySQL**
+- **MongoDB**
+
+### Herramientas de Desarrollo
+- **Git**
+- **GitHub**
 
 ¡Estoy siempre abierto a explorar nuevas tecnologías y herramientas para mejorar mis habilidades!
 
 ---
 
-### Estadísticas de GitHub
+## Estadísticas de GitHub
 
 ![Estadisticas](https://github-readme-stats.vercel.app/api?username=aarweb&theme=midnight-purple&show_icons=true)
 
