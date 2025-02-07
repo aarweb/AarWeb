@@ -1,8 +1,3 @@
-<p align="center">
-      <img width="70%"  src="https://i.ibb.co/JQs4Qqh/220122-ezgif-com-gif-to-webp-converter.webp" alt="Cabecera" />
-</p>
-
-
 <h1 align="center"><b>Hola, Soy AarWeb 👋</b></h1>
 
 <p align="center">
@@ -37,32 +32,38 @@
 
 ---
 
-## Tecnologías y Herramientas 🛠️
+<h2 align="center">🚀 Tecnologías y Herramientas</h2>
 
-### Lenguajes de Programación
-- **JavaScript**
-- **PHP**
-- **C#**
+<h3 align="center">🖥️ Frontend</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="Frontend Technologies" />
+  </a>
+</p>
 
-### Tecnologías de Marcado y Estilo
-- **HTML5**
-- **CSS3**
-- **Markdown**
+<h3 align="center">⚙️ Backend</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,java,nodejs,cs,spring,express" alt="Backend Technologies" />
+  </a>
+</p>
 
-### Frameworks y Librerías
-- **React**
-- **Astro**
-- **Tailwind CSS**
-- **Bootstrap**
-- **DaisyUI**
+<h3 align="center">🗄️ Bases de Datos</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Database Technologies" />
+  </a>
+</p>
 
-### Bases de Datos
-- **MySQL**
-- **MongoDB**
+<h3 align="center">🛠️ Herramientas</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,tailwind,bootstrap,figma,postman" alt="Tools" />
+  </a>
+</p>
 
-### Herramientas de Desarrollo
-- **Git**
-- **GitHub**
+
+
 
 ¡Estoy siempre abierto a explorar nuevas tecnologías y herramientas para mejorar mis habilidades!
 
