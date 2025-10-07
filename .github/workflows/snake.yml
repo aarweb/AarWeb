@@ -1,8 +1,11 @@
 name: Generate Snake
 
+permissions:
+  contents: write  # ← necesario para poder hacer push
+
 on:
   schedule:
-    - cron: "0 0 * * *" # se ejecuta todos los días a medianoche UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -13,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate snake animation
         uses: Platane/snk@v3
