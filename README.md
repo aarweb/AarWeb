@@ -53,11 +53,11 @@
 <h2 align="center">📊 Estadísticas de GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aarweb&theme=midnight-purple&show_icons=true&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=aarweb&theme=midnight-purple&show_icons=true&hide_border=true" alt="Estadísticas de GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarweb&layout=compact&theme=midnight-purple&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aarweb&layout=compact&theme=midnight-purple&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 ---
